@@ -1913,3 +1913,6 @@ a {
 .error {
     display: none;
 }
+.red{
+    color:red !important;
+}
