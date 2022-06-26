@@ -13,7 +13,10 @@ Me and Friend found that whenever we want some repos to take some reference for 
 
 
 It helps you to save time and noisy crowd from github also give you the best resources which will help you to learn about that technology in a hassle free environment,Also we have added speacial resources for LBTQ which will help LBTQ categories to find resources related to technology field and communities.
-  ---
+  ![image](https://user-images.githubusercontent.com/49230384/175810019-68bdba3f-8dd2-44d1-874e-f240b04b7ee4.png)
+
+![image](https://user-images.githubusercontent.com/49230384/175810067-94e9d92d-f192-4958-9cc0-c8ff0eb402ca.png)
+
 
 ## Demo
 
